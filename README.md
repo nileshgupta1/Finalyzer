@@ -1,6 +1,6 @@
 # Finalyzer - Financial Analysis Tool
 
-[Link](https://finalyzer.streamlit.app/ "Finalyzer")
+
 
 ## Overview
 This project is a comprehensive financial analysis tool designed to provide insights into companies' financial health and performance based on their SEC filings. It utilizes Generative Large Language Model to extract key information from 10-K filings and presents it in an intuitive dashboard interface.
